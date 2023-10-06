@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>lista de produtos de limpeza</h1>
+<ul>
+<li>1- Qboa</li>
+<img class="Qboa" src="download (2).jpeg" alt="Qboa">
+<li>2- Papel Higiênico</li>
+<img class="Papel Higiênico"  src="papel higienico.jpeg" alt="Papel Higiênico">
+<li>3- Sabonete</li>
+<img class="Sabonete" src="Sabonete.jpeg" alt="Sabonete">
+<li>4- Desinfetante</li>
+<img class="Desinfetante" src="desinfetante.jpeg" alt="Desinfetante">
+
+</ul>
+<button onclick="pedir()">Pedir</button>
+<script src="./menu.js"></script>
+    
+</body>
+</html>
